@@ -13,7 +13,7 @@ export default function ModernNavbar() {
   ];
 
   return (
-    <div className="w-full bg-[#33110E] text-white shadow-xl">
+    <div className="fixed top-0 left-0 right-0 z-50 w-full bg-[#33110E] text-white shadow-xl">
       {/* Top Bar */}
       <div className="bg-[#44201C] border-b border-[#5A2A25]">
         <div className="max-w-7xl mx-auto px-6 py-2 flex justify-end items-center">
