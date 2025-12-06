@@ -137,7 +137,7 @@ export default function AboutSection() {
               }`}
               style={{ transitionDelay: `${idx * 100}ms` }}
             >
-              <div className="border-l-4 border-blue-600 pl-6">
+              <div className="border-l-4 border-[#33110E]/50 pl-6">
                 <h3 className="text-xl md:text-2xl font-semibold text-gray-900 mb-2">
                   {obj.title}
                 </h3>
