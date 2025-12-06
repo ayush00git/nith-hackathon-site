@@ -36,7 +36,7 @@ const AbtOurDept = () => {
         >
           
           <h2 className="mt-2 text-4xl font-extrabold text-slate-900 tracking-tight sm:text-5xl font-serif">
-            About The Institute
+            About The Department
           </h2>
           <div className="w-24 h-1 bg-[#33110E] mx-auto mt-6 rounded-full"></div>
         </motion.div>

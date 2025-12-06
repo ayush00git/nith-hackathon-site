@@ -15,14 +15,14 @@ export default function ModernNavbar() {
   return (
     <div className="fixed top-0 left-0 right-0 z-50 w-full bg-[#33110E] text-white shadow-xl">
       {/* Top Bar */}
-      <div className="bg-[#44201C] border-b border-[#5A2A25]">
+      {/* <div className="bg-[#44201C] border-b border-[#5A2A25]">
         <div className="max-w-7xl mx-auto px-6 py-2 flex justify-end items-center">
           <div className="flex items-center gap-2 text-[#F2D5C4] text-sm">
             <Mail className="w-4 h-4" />
             <span className="font-light">contact@hackathon2024.edu</span>
           </div>
         </div>
-      </div>
+      </div> */}
 
       {/* Main Navbar */}
       <nav className="bg-[#3E1714] bg-opacity-60 backdrop-blur-md shadow-lg border-b border-[#5A2A25]">
